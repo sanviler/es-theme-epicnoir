@@ -17,6 +17,7 @@
   </text>   
   <text name="shortdescription" extra="true">
    <text>1982  ·  8-bit Console</text>
+   <pos>${posOneLine}</pos>
   </text>
   <text name="longdescription" extra="true">
    <text>Vector display based home video game console that was developed by Western Technologies Smith Engineering</text>

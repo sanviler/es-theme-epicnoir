@@ -15,7 +15,7 @@
   <size>0 0</size>
   </text>
   <text name="shortdescription" extra="true">
-  <text>Video Games System</text>
+  <text>Video Games System</text><pos>${posOneLine}</pos>
   </text>
   <text name="longdescription" extra="true">
   <text>Video Games System</text>

@@ -17,6 +17,7 @@
   </text>    
   <text name="shortdescription" extra="true">
    <text>1982  ·  32-bit Computer</text>
+   <pos>${posOneLine}</pos>
   </text>
   <text name="longdescription" extra="true">
    <text>Lineup of Japanese 16-bit and 32-bit personal computers manufactured by NEC from 1982 to 2000</text>

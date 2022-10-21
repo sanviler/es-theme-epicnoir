@@ -4,13 +4,13 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Neo Geo</text>
+    <text>Neo Geo CD</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Neo Geo</text>
+    <text>Neo Geo CD</text>
     <fontSize>0.18</fontSize>
 
     <size>0 0</size>

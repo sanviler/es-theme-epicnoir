@@ -1,26 +1,26 @@
 <theme>
-  <formatVersion>4</formatVersion>
-  <include>./../theme.xml</include>
-  
-  <view name="basic, detailed, video, grid">
-  <text name="nameLabel" extra="true">
-	<text>dos</text>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>MS-DOS</text>
   </text>
-  </view>    
-  
-  <view name="system">
+</view>    
+
+<view name="system">
   <text name="sys_line2" extra="true">
-  <text>dos</text>
-  <fontSize>0.18</fontSize>
-  
-  <size>0 0</size>
-  </text>
+    <text>MS-DOS</text>
+    <fontSize>0.18</fontSize>
+
+    <size>0 0</size>
+  </text>    
   <text name="shortdescription" extra="true">
-  <text>Video Games System</text>
+   <text>1981  ·  Desktop Computers</text>
+   <pos>${posOneLine}</pos>
   </text>
   <text name="longdescription" extra="true">
-  <text>Video Games System</text>
+   <text>MS-DOS is an operating system for x86-based personal computers mostly developed by Microsoft</text>
   </text>
-  </view>
-  </theme>
-
+ </view>
+</theme>

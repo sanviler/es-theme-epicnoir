@@ -18,6 +18,7 @@
 </text>
   <text name="shortdescription" extra="true">
    <text>1989  ·  16-bit Handheld Console</text>
+   <pos>${posOneLine}</pos>
   </text>
   <text name="longdescription" extra="true">
    <text>The Lynx was the world's first handheld electronic game with a color LCD and was also notable for its advanced graphics and ambidextrous layout</text>

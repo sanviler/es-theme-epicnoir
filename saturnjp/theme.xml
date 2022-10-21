@@ -1,26 +1,31 @@
 <theme>
-  <formatVersion>4</formatVersion>
-  <include>./../theme.xml</include>
-  
-  <view name="basic, detailed, video, grid">
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-	<text>saturnjp</text>
+    <text>Sega Saturn</text>
   </text>
-  </view>    
-  
-  <view name="system">
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Sega Japan</text>
+    <fontSize>0.048</fontSize>
+    
+    <size>0 0</size>
+  </text>
   <text name="sys_line2" extra="true">
-  <text>saturnjp</text>
-  <fontSize>0.18</fontSize>
-  
-  <size>0 0</size>
-  </text>
+    <text>Saturn</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+
+</text>
   <text name="shortdescription" extra="true">
-  <text>Video Games System</text>
+   <text>1994  ·  32-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-  <text>Video Games System</text>
+   <text>Fifth generation home video game console developed by Sega and successor to the successful Sega Genesis</text>
   </text>
-  </view>
-  </theme>
-
+ </view>
+</theme>

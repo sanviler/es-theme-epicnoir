@@ -17,6 +17,7 @@
   </text> 
   <text name="shortdescription" extra="true">
    <text>1983  ·  8-bit Computer</text>
+   <pos>${posOneLine}</pos>
   </text>
   <text name="longdescription" extra="true">
    <text>MSX is a standardized home computer architecture, conceived as an attempt to create unified standards among various hardware makers</text>

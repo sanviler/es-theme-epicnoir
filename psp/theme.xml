@@ -18,6 +18,7 @@
 </text>
   <text name="shortdescription" extra="true">
    <text>2004  ·  32-bit Handheld Console</text>
+   <pos>${posOneLine}</pos>
   </text>
   <text name="longdescription" extra="true">
    <text>Sony's first handheld, it was also the first real competition to Nintendo handhelds since the Game Gear</text>

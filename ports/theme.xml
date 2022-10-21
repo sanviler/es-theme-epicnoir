@@ -17,6 +17,7 @@
   </text>    
   <text name="shortdescription" extra="true">
    <text>Software</text>
+   <pos>${posOneLine}</pos>
   </text>
   <text name="longdescription" extra="true">
    <text>Multi-platform ports of software and game engines from PC to DOS </text>

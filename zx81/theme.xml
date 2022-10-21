@@ -17,6 +17,7 @@
   </text>    
   <text name="shortdescription" extra="true">
    <text>1980  ·  8-bit Computer</text>
+   <pos>${posOneLine}</pos>
   </text>
   <text name="longdescription" extra="true">
    <text>Notable for being one of the first computers available in the United Kingdom for less than a hundred pounds</text>

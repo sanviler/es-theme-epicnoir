@@ -17,6 +17,7 @@
   </text>    
   <text name="shortdescription" extra="true">
    <text>1982  ·  8-bit Computer</text>
+   <pos>${posOneLine}</pos>
   </text>
   <text name="longdescription" extra="true">
    <text>The C64 is listed in the Guinness World Records as the highest-selling single computer model of all time.</text>

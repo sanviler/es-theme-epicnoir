@@ -13,6 +13,10 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 -->
 
 <theme>
+<variables>
+    <posOneLine>0.05 0.16</posOneLine>
+</variables>
+
 <formatVersion>4</formatVersion>
 
 <view name="system">

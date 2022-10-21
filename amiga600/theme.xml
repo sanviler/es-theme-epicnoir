@@ -9,14 +9,20 @@
   </view>    
   
   <view name="system">
-  <text name="sys_line2" extra="true">
-  <text>amiga600</text>
-  <fontSize>0.18</fontSize>
+  <text name="sys_line1" extra="true">
+      <text>Amiga</text>
+      <fontSize>0.048</fontSize>
+      
+      <size>0 0</size>
+    </text>
+    <text name="sys_line2" extra="true">
+      <text>600</text>
+      <fontSize>0.18</fontSize>
+      <origin>0 0</origin>
   
-  <size>0 0</size>
-  </text>
+  </text>  
   <text name="shortdescription" extra="true">
-  <text>Video Games System</text>
+  <text>Video Games System</text><pos>${posOneLine}</pos>
   </text>
   <text name="longdescription" extra="true">
   <text>Video Games System</text>
