@@ -1,32 +1,31 @@
 <theme>
-  <formatVersion>4</formatVersion>
-  <include>./../theme.xml</include>
-  
-  <view name="basic, detailed, video, grid">
-  <text name="nameLabel" extra="true">
-	<text>amiga600</text>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Amiga 600</text>
   </text>
-  </view>    
-  
-  <view name="system">
+</view>    
+
+<view name="system">
   <text name="sys_line1" extra="true">
-      <text>Amiga</text>
-      <fontSize>0.048</fontSize>
-      
-      <size>0 0</size>
-    </text>
-    <text name="sys_line2" extra="true">
-      <text>600</text>
-      <fontSize>0.18</fontSize>
-      <origin>0 0</origin>
-  
-  </text>  
+    <text>Amiga</text>
+    <fontSize>0.048</fontSize>
+    
+    <size>0 0</size>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>1200</text>
+    <fontSize>0.18</fontSize>
+    <origin>0 0</origin>
+
+</text>   
   <text name="shortdescription" extra="true">
-  <text>Video Games System</text><pos>${posOneLine}</pos>
+   <text>1992  ·  32-bit Computer</text>
   </text>
   <text name="longdescription" extra="true">
-  <text>Video Games System</text>
+   <text>The CD32 is part of a family of Amiga computers and other hardware. It uses CD-ROM as its storage medium. It was based on Commodore's Advanced Graphics Architecture chipset, and is of similar specification to the Amiga 1200 personal computer.</text>
   </text>
-  </view>
-  </theme>
-
+ </view>
+</theme>

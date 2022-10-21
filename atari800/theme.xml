@@ -17,6 +17,7 @@
   </text>    
   <text name="shortdescription" extra="true">
    <text>1979  ·  8-bit Computer</text>
+   <pos>${posOneLine}</pos>
   </text>
   <text name="longdescription" extra="true">
    <text>The Atari 8-bit family is a series of 8-bit home computers. All of the machines in the family are technically similar and differ primarily in packaging</text>

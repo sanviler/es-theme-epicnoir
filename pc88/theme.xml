@@ -1,26 +1,26 @@
 <theme>
-  <formatVersion>4</formatVersion>
-  <include>./../theme.xml</include>
-  
-  <view name="basic, detailed, video, grid">
-  <text name="nameLabel" extra="true">
-	<text>pc88</text>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>NEC PC-88</text>
   </text>
-  </view>    
-  
-  <view name="system">
+</view>    
+
+<view name="system">
   <text name="sys_line2" extra="true">
-  <text>pc88</text>
-  <fontSize>0.18</fontSize>
-  
-  <size>0 0</size>
-  </text>
+    <text>NEC PC88</text>
+    <fontSize>0.18</fontSize>
+
+    <size>0 0</size>
+  </text>    
   <text name="shortdescription" extra="true">
-  <text>Video Games System</text><pos>${posOneLine}</pos>
+   <text>1982  ·  32-bit Computer</text>
+   <pos>${posOneLine}</pos>
   </text>
   <text name="longdescription" extra="true">
-  <text>Video Games System</text>
+   <text>Lineup of Japanese 16-bit and 32-bit personal computers manufactured by NEC from 1982 to 2000</text>
   </text>
-  </view>
-  </theme>
-
+ </view>
+</theme>
