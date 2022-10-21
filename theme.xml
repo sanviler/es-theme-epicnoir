@@ -47,6 +47,11 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <pos>-0.002 0.15</pos>
         <size>0 0.70</size>
      </image>
+     <text name="players_lbl_2" extra="true">
+         <text>${system.theme}</text>
+         <pos>0.689 0.932</pos>
+         <size>0.06 0.07</size>
+     </text>   
 
     <carousel name="systemcarousel">
         <type>vertical</type>
@@ -102,10 +107,10 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <forceUppercase>0</forceUppercase>
         <fontSize>0.021</fontSize>
         <color>8F8F8F</color>
- 	<lineSpacing>1.18</lineSpacing>
+ 	   <lineSpacing>1.18</lineSpacing>
         <origin>0 0</origin>
         <pos>0.12 0.360</pos>
-        <size>0.28 0.20</size>
+        <size>0.38 0.20</size>
     </text>
 
     <image name="buttonA" extra="true">
@@ -117,12 +122,10 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </image>
 
     <helpsystem name="help">
-        <fontPath>./_art/Acre.otf</fontPath>
-        <fontSize>0.02</fontSize>
-        <origin>1 1</origin><!--0 0-->
-        <pos>0 0</pos> <!--0.0890 0.6283-->
+        <pos>0.6 0.92</pos> <!--0.0890 0.6283-->
         <textColor>F8F8F8</textColor>
         <iconColor>F8F8F8</iconColor>
+        <origin>0 0</origin>
     </helpsystem>
 
     <image name="controller" extra="true">
@@ -242,36 +245,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <size>0.4 0.07</size>
     </text> 
         
-<!-- Extra Text Labels. Edit text values if needed.-->
-    <text name="players_lbl_2, btn_a, btn_b, btn_x" extra="true">
-        <fontPath>./_art/Acre.otf</fontPath>
-        <color>888888</color>
-        <fontSize>0.0186</fontSize>
-    </text>       
-
-    <text name="btn_a" extra="true">
-        <text>Enter</text>
-        <pos>0.042 0.933</pos>
-        <size>0.06 0.07</size>
-    </text>   
-        
-    <text name="btn_b" extra="true">
-        <text>Return</text>
-        <pos>0.155 0.933</pos>
-        <size>0.06 0.07</size>
-    </text>   
-        
-    <text name="btn_x" extra="true">
-        <text>Favorite</text>
-        <pos>0.259 0.933</pos>
-        <size>0.06 0.07</size>
-    </text>   
-
-    <text name="players_lbl_2" extra="true">
-        <text>players</text>
-        <pos>0.689 0.932</pos>
-        <size>0.06 0.07</size>
-    </text>       
 
     <text name="txt_descript" extra="true">
         <text>Description</text>
@@ -303,10 +276,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <pos>0 0</pos>
         </datetime>
         
-    <helpsystem name="help">
-        <origin>1 1</origin>
-        <pos>1 1</pos> 
-    </helpsystem>
+
 </view>
 
 <view name="basic, detailed, grid">
