@@ -32,12 +32,12 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <size>0 1</size>
     </image>
     
-    <image name="indicator_bg" extra="true">
+    <!-- <image name="indicator_bg" extra="true">
         <tile>false</tile>
         <path>./_art/indicators/left-ray.svg</path>
         <size>0 1</size>
         <pos>0 0</pos>
-    </image>
+    </image> -->
    
     <!-- <image name="indicator" extra="true">
         <path>./_art/indicators/${system.theme}.png</path>
@@ -71,7 +71,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontSize>0.021</fontSize>
         <color>9b9a9a</color>
         <origin>0 0</origin>
-        <pos>0.12 0.1055</pos>
+        <pos>0.05 0.1055</pos>
         <size>0.320 0.033</size>
     </text>
     <text name="sys_line1" extra="true">
@@ -79,6 +79,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <alignment>left</alignment>
         <forceUppercase>1</forceUppercase>
         <color>FFFFFF</color>
+        <origin>0 0</origin>
+        <pos>0.05 0.142</pos>
     </text>
     
     <text name="sys_line2" extra="true">
@@ -86,6 +88,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <alignment>left</alignment>
         <forceUppercase>1</forceUppercase>
         <color>FFFFFF</color>
+        <origin>0 0</origin>
+        <pos>0.046 0.160</pos>
     </text>
 
 
@@ -96,7 +100,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <forceUppercase>1</forceUppercase>
         <color>A3332D</color>
         <origin>0 0</origin>
-        <pos>0.12 0.3611</pos>
+        <pos>0.05 0.3611</pos>
         <size>0.200 0.039</size>
         <fontSize>0.0315</fontSize>
     </text>
@@ -109,7 +113,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <color>8F8F8F</color>
  	   <lineSpacing>1.18</lineSpacing>
         <origin>0 0</origin>
-        <pos>0.12 0.360</pos>
+        <pos>0.05 0.360</pos>
         <size>0.38 0.20</size>
     </text>
 
@@ -117,7 +121,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 		<path>./_art/var/button.svg</path>
         <tile>false</tile>
         <origin>0 0</origin>
-        <pos>0.12 0.545</pos>
+        <pos>0.05 0.545</pos>
         <size>0 0.044</size>
     </image>
 
@@ -132,7 +136,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <path>./_art/controllers/${system.theme}.png</path>
         <tile>false</tile>
         <origin>0 0</origin>
-        <pos>0.12 0.61</pos>
+        <pos>0.05 0.61</pos>
         <maxSize>0.32 0.32</maxSize>
     </image>
 </view>
