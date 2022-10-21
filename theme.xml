@@ -39,19 +39,19 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <pos>0 0</pos>
     </image>
    
-    <image name="indicator" extra="true">
+    <!-- <image name="indicator" extra="true">
         <path>./_art/indicators/${system.theme}.png</path>
         <tile>false</tile>
         <color>F8F8F8</color>
         <origin>0 0</origin>
         <pos>-0.002 0.15</pos>
         <size>0 0.70</size>
-     </image>
-     <text name="players_lbl_2" extra="true">
+     </image> -->
+     <!-- <text name="players_lbl_2" extra="true">
          <text>${system.theme}</text>
          <pos>0.689 0.932</pos>
          <size>0.06 0.07</size>
-     </text>   
+     </text>    -->
 
     <carousel name="systemcarousel">
         <type>vertical</type>
@@ -64,6 +64,16 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <maxLogoCount>0</maxLogoCount>
     </carousel>
     
+    <text name="shortdescription" extra="true">
+        <fontPath>./_art/Acre.otf</fontPath>
+        <alignment>left</alignment>
+        <forceUppercase>0</forceUppercase>
+        <fontSize>0.021</fontSize>
+        <color>9b9a9a</color>
+        <origin>0 0</origin>
+        <pos>0.12 0.1055</pos>
+        <size>0.320 0.033</size>
+    </text>
     <text name="sys_line1" extra="true">
         <fontPath>./_art/BebasNeue.otf</fontPath>
         <alignment>left</alignment>
@@ -78,16 +88,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <color>FFFFFF</color>
     </text>
 
-    <text name="shortdescription" extra="true">
-        <fontPath>./_art/Acre.otf</fontPath>
-        <alignment>left</alignment>
-        <forceUppercase>0</forceUppercase>
-        <fontSize>0.021</fontSize>
-        <color>9b9a9a</color>
-        <origin>0 0</origin>
-        <pos>0.12 0.1055</pos>
-        <size>0.320 0.033</size>
-    </text>
 
     <text name="systemInfo">
         <fontPath>./_art/Acre.otf</fontPath>
@@ -122,7 +122,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </image>
 
     <helpsystem name="help">
-        <pos>0.99 0.97</pos> <!--0.0890 0.6283-->
+        <pos>0.99 0.97</pos> 
         <textColor>F8F8F8</textColor>
         <iconColor>F8F8F8</iconColor>
         <origin>1 1</origin>
