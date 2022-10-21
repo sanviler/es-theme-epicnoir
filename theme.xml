@@ -122,10 +122,10 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </image>
 
     <helpsystem name="help">
-        <pos>0.6 0.92</pos> <!--0.0890 0.6283-->
+        <pos>0.99 0.97</pos> <!--0.0890 0.6283-->
         <textColor>F8F8F8</textColor>
         <iconColor>F8F8F8</iconColor>
-        <origin>0 0</origin>
+        <origin>1 1</origin>
     </helpsystem>
 
     <image name="controller" extra="true">
