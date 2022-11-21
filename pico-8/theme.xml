@@ -1,0 +1,26 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Pico 8</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Pico 8</text>
+    <fontSize>0.18</fontSize>
+
+    <size>0 0</size>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>2015  ·  Game Engine</text>
+   <pos>${posOneLine}</pos>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>PICO-8 is a virtual machine and game engine created by Lexaloffle Games.</text>
+  </text>
+ </view>
+</theme>

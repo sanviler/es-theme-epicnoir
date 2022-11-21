@@ -1,0 +1,26 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Wolfenstein 3D</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Wolfenstein 3D</text>
+    <fontSize>0.18</fontSize>
+
+    <size>0 0</size>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>1992  ·  Desktop Computers</text>
+   <pos>${posOneLine}</pos>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>In Wolfenstein 3D, the player assumes the role of Allied spy William "B.J." Blazkowicz during World War II as he escapes from the Nazi.</text>
+  </text>
+ </view>
+</theme>
