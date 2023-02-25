@@ -25,7 +25,7 @@
    <text>1992  ·  32-bit Computer</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The CD32 is part of a family of Amiga computers and other hardware. It uses CD-ROM as its storage medium. It was based on Commodore's Advanced Graphics Architecture chipset, and is of similar specification to the Amiga 1200 personal computer.</text>
+   <text>The A1200 was launched a few months after the Amiga 600, using a similar slimline design that replaced the earlier Amiga 500 Plus and Amiga 500. Whereas the A600 used the 16-bit Motorola 68000 of earlier Amigas, the A1200 was built around the 32-bit Motorola 68EC020. Physically, the A1200 is an all-in-one design incorporating the CPU, keyboard, and disk drives (including the option of an internal 2.5" hard disk drive) in one physical unit. The A1200 has a similar hardware architecture to Commodore's Amiga CD32 game console.</text>
   </text>
  </view>
 </theme>
