@@ -22,10 +22,10 @@
   
   </text>  
   <text name="shortdescription" extra="true">
-   <text>1985  ·  16-bit Computer</text>
+   <text>1993  ·  32-bit Computer</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The original model was part of a wave of 16 and 32 bit computers that featured 256KB or more of RAM, mouse-based GUIs, and improved graphics & audio</text>
+   <text>The CD32 is part of a family of Amiga computers and other hardware. It uses CD-ROM as its storage medium. It is based on Commodore's Advanced Graphics Architecture chipset, and is of similar specification to the Amiga 1200 personal computer. Using third party devices, it is possible to upgrade the CD32 with a keyboard, floppy drive, hard drive, RAM and mouse, turning it into the equivalent of an Amiga 1200. A hardware MPEG decompression module for playing Video CD was also released.</text>
   </text>
  </view>
 </theme>
